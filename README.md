@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full-time Freelancer - 5+ years of coffee and programming
+Full-time Freelancer - 6+ years of coffee and programming
 
 - 🔭 I’m currently working on ReactJS, React Native, NodeJS, Firebase, MongoDB
 - 🌱 I’m currently learning Kubernetes and Docker
