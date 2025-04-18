@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Full-time Freelancer - 8+ years of coffee and programming
+Full-Stack - 8+ years of coffee and programming
 
-- 🔭 I’m currently working on ReactJS, NextJS, React Native, NodeJS, Firebase, MongoDB
+- 🔭 I’m currently working on ReactJS, NextJS, React Native, NodeJS, Firebase, MongoDB, NestJS
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piyushkalsariya/)
 - 😄 Pronouns: He/Him
