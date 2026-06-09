@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full-Stack - 8+ years of coffee and programming
+Full-Stack - 9+ years of coffee and programming
 
 - 🔭 I’m currently working on ReactJS, NextJS, React Native, NodeJS, Firebase, MongoDB, NestJS
 - 💬 Ask me about anything
